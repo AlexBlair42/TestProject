@@ -1,0 +1,15 @@
+
+public class Player {
+	public static int health;
+	public  int attackdmg ;
+	public static int numHealthPots;
+	public static int healthPotionHeal;
+	
+	
+	Player(int h, int a, int n, int t){
+		h = health;
+		a = attackdmg;
+		n = numHealthPots;
+		t = healthPotionHeal;
+	}
+}

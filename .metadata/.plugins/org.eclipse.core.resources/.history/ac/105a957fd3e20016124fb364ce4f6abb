@@ -1,0 +1,15 @@
+
+public class Player {
+	int health;
+	int attackdmg ;
+	int numHealthPots;
+	int healthPotionHeal;
+	
+	
+	Player(int h, int a, int n, int t){
+		h = health;
+		a = attackdmg;
+		n = numHealthPots;
+		t = healthPotionHeal;
+	}
+}
